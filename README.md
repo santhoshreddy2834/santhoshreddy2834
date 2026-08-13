@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
-**santhoshreddy2834/santhoshreddy2834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**santhoshreddy2834/santhoshreddy2834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
