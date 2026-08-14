@@ -21,7 +21,5 @@ B.Tech CSE (AI & ML) graduate, 2026. Learning AI engineering. I am currently bui
 
 Open to AI Engineer and Python Developer roles, and internships.
 
-**YOUR-EMAIL@gmail.com**
-
-www.linkedin.com/in/kalusani-santhosh-reddy-b87212301
+LINKED IN  : www.linkedin.com/in/kalusani-santhosh-reddy-b87212301
 [Email](mailto:YOUR-EMAIL@gmail.com)
