@@ -1,4 +1,4 @@
-# Hi, I'm Santhosh 👋
+# Hi, I'm Santhosh Reddy 👋
 
 B.Tech CSE (AI & ML) graduate, 2026. Learning AI engineering. I am currently building my foundation in Python and NLP, and working towards RAG and LLM applications.
 
