@@ -23,4 +23,5 @@ Open to AI Engineer and Python Developer roles, and internships.
 
 **YOUR-EMAIL@gmail.com**
 
-[LinkedIn](www.linkedin.com/in/kalusani-santhosh-reddy-b87212301) · [Email](mailto:YOUR-EMAIL@gmail.com)
+www.linkedin.com/in/kalusani-santhosh-reddy-b87212301
+[Email](mailto:YOUR-EMAIL@gmail.com)
